@@ -1,0 +1,7 @@
+/home/zachary/projects/Curveball/build/CMakeFiles/curveball.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/edit_cache.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/rebuild_cache.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/list_install_components.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/install.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/install/local.dir
+/home/zachary/projects/Curveball/build/CMakeFiles/install/strip.dir

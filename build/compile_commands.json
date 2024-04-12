@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zachary/projects/Curveball/build",
+  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/curveball.dir/main.cpp.o -c /home/zachary/projects/Curveball/main.cpp",
+  "file": "/home/zachary/projects/Curveball/main.cpp",
+  "output": "CMakeFiles/curveball.dir/main.cpp.o"
+}
+]
